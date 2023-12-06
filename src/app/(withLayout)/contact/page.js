@@ -1,10 +1,9 @@
 import React from 'react';
-import { PageProps } from './../../../.next/types/app/about/layout';
 
 const ContactPage = () => {
     return (
         <div>
-            <h1>This is Contact PageProps</h1>
+            <h1>Contact Page with Header Footer</h1>
         </div>
     );
 };
